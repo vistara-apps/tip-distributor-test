@@ -21,7 +21,7 @@ export function RecentTips({ totalTips }: RecentTipsProps) {
   useEffect(() => {
     // Simulate adding new tips
     if (totalTips > tips.length) {
-      const newTips = [];
+      const newTips: Tip[] = [];
       for (let i = tips.length; i < totalTips; i++) {
         newTips.push({
           id: `tip_${i}`,
