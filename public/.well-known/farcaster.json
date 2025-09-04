@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Tip Distributor Test",
+    "subtitle": "Built with Zara",
+    "description": "Tip Distributor Test is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://tipdistributortest-atl5-vbok5i3j8-vistara.vercel.app",
+    "splashImageUrl": "https://tipdistributortest-atl5-vbok5i3j8-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://tipdistributortest-atl5-vbok5i3j8-vistara.vercel.app/image.png",
+    "tagline": "Tip Distributor Test",
+    "screenshotUrls": [
+      "https://tipdistributortest-atl5-vbok5i3j8-vistara.vercel.app/screenshot.png",
+      "https://tipdistributortest-atl5-vbok5i3j8-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://tipdistributortest-atl5-vbok5i3j8-vistara.vercel.app/api/webhook"
+  }
+}
